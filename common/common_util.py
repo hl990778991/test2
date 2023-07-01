@@ -1,0 +1,2 @@
+class CommonUtil:
+  pass
